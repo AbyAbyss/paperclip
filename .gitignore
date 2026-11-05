@@ -105,4 +105,4 @@ test-results/
 .turbo/
 
 # Antigravity agent tooling (not part of Paperclip)
-skills/system/
+skills/system/run-workflow/SKILL.md

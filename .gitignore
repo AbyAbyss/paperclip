@@ -103,3 +103,6 @@ test-results/
 
 # Content-addressed CI task results
 .turbo/
+
+# Antigravity agent tooling (not part of Paperclip)
+skills/system/
